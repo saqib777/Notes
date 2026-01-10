@@ -1,4 +1,4 @@
-# CI Integration From Scratch – Detailed Notes
+# CI Integration From Scratch - Detailed Notes
 
 ## 1. What We Were Trying to Achieve
 
@@ -43,6 +43,7 @@ A workflow is a configuration file that defines **when** and **how** automation 
 
 ```
 .github/workflows/
+
 ```
 
 A workflow answers these questions:

@@ -1,16 +1,16 @@
-# CI Integration – Day 2
+# CI Integration - Day 2
 
 ## Focus of the Day
 
-Today’s session was about **moving from “CI works” to “tests are structured like a real framework.”**
+Today’s session was about **moving from “_CI works_” to _“tests are structured like a real framework.”_**
 
-We intentionally did not add new CI tools or complexity. Instead, we focused on understanding **how test frameworks are built, why they break, and how CI exposes structural mistakes early**.
+I intentionally did not add new CI tools or complexity. Instead, we focused on understanding **how test frameworks are built, why they break, and how CI exposes structural mistakes early**.
 
 This day was about *design*, not speed.
 
 ---
 
-## 1. Where We Started Today
+## 1. Where I Started Today
 
 At the start of the day:
 
@@ -19,34 +19,19 @@ At the start of the day:
 * Repository had a clean base structure
 * GitHub Actions was stable
 
-This meant we were ready to move beyond basics and focus on **test architecture**.
+This meant I were ready to move beyond basics and focus on **test architecture**.
 
 ---
 
 ## 2. What “Framework” Means (Clarified)
 
-A framework is **not**:
-
-* a library
-* a tool
-* a folder name
-
-A framework **is**:
-
-* agreed structure
-* separation of concerns
-* reusable setup
-* predictable behavior
-
-The goal is:
-
-> Make tests easy to write, easy to read, and hard to misuse.
+A framework is **not**: a library, a tool, a folder name. A framework **is**: agreed structure, separation of concerns, reusable setup, predictable behavior. The goal is to Make tests easy to write, easy to read, and hard to misuse.
 
 ---
 
 ## 3. Introducing `conftest.py`
 
-We introduced a new file:
+I introduced a new file:
 
 ```
 tests/conftest.py
@@ -77,7 +62,7 @@ With `conftest.py`:
 
 ## 4. Pytest Fixtures (First Real Framework Concept)
 
-We added a fixture:
+I added a fixture:
 
 ```python
 import pytest
@@ -266,13 +251,3 @@ That is a feature, not a flaw.
 
 ---
 
-## End State
-
-You now have:
-
-* A structured Python project
-* Reusable test setup
-* Explicit configuration
-* A CI pipeline that enforces correctness
-
-This is the real foundation of professional test automation.

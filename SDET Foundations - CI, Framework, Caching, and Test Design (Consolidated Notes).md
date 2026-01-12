@@ -1,4 +1,4 @@
-# SDET Foundations – CI, Framework, Caching, and Test Design (Consolidated Notes)
+# SDET Foundations - CI, Framework, Caching, and Test Design (Consolidated Notes)
 
 These notes capture **everything we studied across the last sessions**, structured the way an SDET is expected to think: from automation mechanics to test design intent. This is not tool-first documentation; it is **principle-first**, with tools supporting those principles.
 

@@ -15,7 +15,7 @@ This note clarifies exactly what happens in our current setup and why it behaves
 A test is a single test function, for example:
 
 ```python
-def test_add_parametrized():
+def test_add_parametized():
     ...
 ```
 

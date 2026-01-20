@@ -1,4 +1,4 @@
-Date - 20-01-2026
+### Date - 20-01-2026
 
 I created another project and named it Python Foundation, this is to learn python and how selenium works, in the last project I was able to understand how selenium works. I now have installed Selenium into a virtual environment and test the project and the selenium works fine.
 

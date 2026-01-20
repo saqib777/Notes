@@ -12,6 +12,7 @@ It is always recomended to download it in a virtual environment, hence follow th
 4. A virtual enviroment will be created
 
 Alternatively, you can open terminal and type" `python -m venv .venv`
+and activate it by _.venv/bin/activate_
 
 
 
@@ -20,5 +21,4 @@ Once this is done
 Python talks to selenium
 selenium talks to webdrivers
 webdrivers talk to chrome
-
 ```

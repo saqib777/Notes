@@ -6,7 +6,7 @@ It is not a collection of random notes. Each file reflects a **deliberate learni
 
 ---
 
-## 📌 What This Repository Contains
+## What This Repository Contains
 
 This repository focuses on **CI fundamentals, design thinking, and reliability**, rather than tool-only explanations.
 

@@ -24,7 +24,7 @@ Key themes covered:
 
 ---
 
-## 📂 Notes Structure
+##  Notes Structure
 
 Each Markdown file represents a **clear learning milestone**:
 
@@ -45,7 +45,7 @@ Each Markdown file represents a **clear learning milestone**:
 
 ---
 
-## 🎯 Why This Repository Exists
+##  Why This Repository Exists
 
 The goal of this repository is to:
 
@@ -56,7 +56,7 @@ The goal of this repository is to:
 
 ---
 
-## 🧠 How to Use These Notes
+##  How to Use These Notes
 
 * Read chronologically to follow the learning journey
 * Use the consolidated notes for quick revision
@@ -65,7 +65,7 @@ The goal of this repository is to:
 
 ---
 
-## 🚀 Next Phase
+##  Next Phase
 
 CI is now complete at a foundational SDET level. The next logical progression from this repository is:
 

@@ -1,4 +1,4 @@
-# CI Dependency Installation & Test Execution – Clear Notes
+# CI Dependency Installation & Test Execution - Clear Notes
 
 ## 1. Why This Topic Matters
 

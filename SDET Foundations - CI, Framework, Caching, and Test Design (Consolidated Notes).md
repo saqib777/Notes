@@ -20,7 +20,7 @@ By the end of this work, we moved from **scripts** to the beginnings of a **test
 
 ## 2. Continuous Integration (CI)
 
-### Definition
+### Definition 
 
 Continuous Integration is a practice where every code change is automatically:
 

@@ -12,7 +12,7 @@ This note clarifies exactly what happens in our current setup and why it behaves
 
 ### Test
 
-A test is a single test function, for example:
+A test is a single test function, take an  example:
 
 ```python
 def test_add_parametized():
